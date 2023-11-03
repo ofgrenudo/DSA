@@ -1,3 +1,3 @@
-# Datascience and Algorithms (DSA)
+# Data Science and Algorithms (DSA)
 
 This repository is intended to contain a number of Datascience problems from the Advent of Code repository to the Code Warriors and Leet code, to just general code snippets I think are important to me. The inspiration for this repository has mainly come from watching a number of competitive programmers. While im not sure I would want to compete competetively I do like the concepts they implement.
